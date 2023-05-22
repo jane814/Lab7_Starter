@@ -1,3 +1,3 @@
 # Lab 7 - Starter
 Jane Lee\
-[recipe](index.html)
+[recipe](https://jane814.github.io/Lab7_Starter/)
