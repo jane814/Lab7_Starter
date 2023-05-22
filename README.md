@@ -1,3 +1,3 @@
 # Lab 7 - Starter
-Jane Lee/
-(recipe)[index.html]
+Jane Lee\
+[recipe](index.html)
