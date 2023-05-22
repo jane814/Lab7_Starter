@@ -1,3 +1,3 @@
 # Lab 7 - Starter
-Jane Lee
+Jane Lee/
 (recipe)[index.html]
